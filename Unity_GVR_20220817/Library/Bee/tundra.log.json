@@ -489,12 +489,3 @@
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteText Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.AdditionalFile.txt","enqueuedNodeIndex":386,"enqueueingNodeAnnotation":"Csc Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.dll (+2 others)","enqueueingNodeIndex":388}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteText Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.rsp","enqueuedNodeIndex":387,"enqueueingNodeAnnotation":"Csc Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.dll (+2 others)","enqueueingNodeIndex":388}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb","enqueuedNodeIndex":490,"enqueueingNodeAnnotation":"ScriptAssemblies","enqueueingNodeIndex":5}
-{"msg":"nodeRetryBuild","annotation":"Csc Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.dll (+2 others)","index":388}
-{"msg":"runNodeAction","annotation":"Csc Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.dll (+2 others)","index":388}
-{"msg":"noderesult","processed_node_count":486,"number_of_nodes_ever_queued":490,"annotation":"Csc Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.dll (+2 others)","index":388,"exitcode":0,"outputfile":"Library\\Bee\\artifacts\\1300b0aE.dag\\Assembly-CSharp-Editor.dll","stdout":"Assets\\GoogleVR\\Editor\\GvrBuildProcessor.cs(193,16): warning CS0618: 'PlayerSettings.virtualRealitySupported' is obsolete: 'This API is obsolete, and should no longer be used. Please use XRManagerSettings in the XR Management package instead.'"}
-{"msg":"newNode","annotation":"CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb","index":490}
-{"msg":"runNodeAction","annotation":"CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb","index":490}
-{"msg":"newNode","annotation":"CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.dll","index":489}
-{"msg":"runNodeAction","annotation":"CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.dll","index":489}
-{"msg":"noderesult","processed_node_count":487,"number_of_nodes_ever_queued":490,"annotation":"CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb","index":490,"exitcode":0,"outputfile":"Library\\ScriptAssemblies\\Assembly-CSharp-Editor.pdb"}
-{"msg":"noderesult","processed_node_count":488,"number_of_nodes_ever_queued":490,"annotation":"CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.dll","index":489,"exitcode":0,"outputfile":"Library\\ScriptAssemblies\\Assembly-CSharp-Editor.dll"}
